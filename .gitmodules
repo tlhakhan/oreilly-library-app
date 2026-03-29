@@ -1,0 +1,6 @@
+[submodule "public/cover"]
+	path = public/cover
+	url = git@github.com:tlhakhan/oreilly-library-cover.git
+[submodule "db"]
+	path = db
+	url = git@github.com:tlhakhan/oreilly-library-db.git
